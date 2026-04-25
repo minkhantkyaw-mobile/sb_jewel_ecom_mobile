@@ -1,0 +1,1 @@
+class PointSetting {  int? ksPerPoint;  PointSetting({this.ksPerPoint});  PointSetting.fromJson(Map<String, dynamic> json) {    ksPerPoint = json['ks_per_point'];  }  Map<String, dynamic> toJson() {    final Map<String, dynamic> data = new Map<String, dynamic>();    data['ks_per_point'] = this.ksPerPoint;    return data;  }}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847261512558",
+    "project_id": "sb-jewel",
+    "storage_bucket": "sb-jewel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847261512558:android:895146fd7cad0bc333077f",
+        "android_client_info": {
+          "package_name": "com.hapeye.spjewellery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2L8fTDFbK6OW6rgvmjKLfudyKyCLz8Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
